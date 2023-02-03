@@ -1,0 +1,5 @@
+class calculator
+{
+   void Add(int a, int b)
+	=> a - b
+}
